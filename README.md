@@ -22,7 +22,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing pawanpandit.com**
+- 💼 I'm currently working on: **💻 Developing skyzen.ai**
 - 🌱 I'm currently learning: **📚 Exploring WebRTC and GitLab**
 - 💬 Ask me about: **💡 Next.js, Docker, Kubernetes and Prisma**
 - ⚡ Fun fact: **🎢 I love building JavaScript projects**
